@@ -59,6 +59,6 @@ Built for the JS AI Hackathon.
 - AI automations — one manual process, automated end to end
 - WhatsApp order and fulfilment systems for Nigerian businesses
 
-**Contact:** [musaj.space](https://musaj.space) · muhammadsalihu@airbills.ng
+**Contact:** [musaj.space](https://musaj.space) · muhammad@airbills.ng
 
 *50% deposit to start. Fixed fees, not hourly.*
